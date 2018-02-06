@@ -5,3 +5,7 @@
 * clang-format style http://clang.llvm.org/docs/ClangFormatStyleOptions.html
 
 * clang-format参数说明 http://clangformat.com/
+
+
+# App For Mac 
+https://github.com/mapbox/XcodeClangFormat
